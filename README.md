@@ -3,8 +3,7 @@
 本仓库包含一张可直接用于汇报和继续编辑的分析图。
 
 - [`gansu_storage_strategy_map.drawio`](./gansu_storage_strategy_map.drawio)：可在 diagrams.net / draw.io 中继续编辑。
-- [`gansu_storage_strategy_map.svg`](./gansu_storage_strategy_map.svg)：已渲染矢量预览。
-- [`gansu_storage_strategy_map.png`](./gansu_storage_strategy_map.png)：已渲染 PNG 预览。
+- [`gansu_storage_strategy_map.svg`](./gansu_storage_strategy_map.svg)：已渲染矢量预览，可直接在 GitHub 中查看。
 
 ## 图的主线
 
